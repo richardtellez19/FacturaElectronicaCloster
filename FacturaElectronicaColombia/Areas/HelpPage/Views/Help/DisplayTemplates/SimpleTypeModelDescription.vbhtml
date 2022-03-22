@@ -1,0 +1,3 @@
+@Imports FacturaElectronicaColombia.Areas.HelpPage.ModelDescriptions
+@ModelType SimpleTypeModelDescription
+@Model.Documentation

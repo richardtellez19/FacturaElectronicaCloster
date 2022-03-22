@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FacturaGeneral xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <cantidadDecimales>2</cantidadDecimales>
+  <cliente>
+    <actividadEconomicaCIIU>0010</actividadEconomicaCIIU>
+    <destinatario>
+      <Destinatario>
+        <canalDeEntrega>0</canalDeEntrega>
+        <email>
+          <string>rtellez@globalforce.mx</string>
+          <string xsi:nil="true" />
+        </email>
+        <nitProveedorReceptor>1</nitProveedorReceptor>
+        <telefono>1234567890</telefono>
+      </Destinatario>
+      <Destinatario xsi:nil="true" />
+    </destinatario>
+    <detallesTributarios>
+      <Tributos>
+        <codigoImpuesto>01</codigoImpuesto>
+      </Tributos>
+      <Tributos xsi:nil="true" />
+    </detallesTributarios>
+    <direccionFiscal>
+      <ciudad>BOGOTA D.C.</ciudad>
+      <codigoDepartamento>11</codigoDepartamento>
+      <departamento>BOGOTA D.C.</departamento>
+      <direccion>CRA 19B NO 166-66</direccion>
+      <lenguaje>es</lenguaje>
+      <municipio>11001</municipio>
+      <pais>CO</pais>
+      <zonaPostal>110131</zonaPostal>
+    </direccionFiscal>
+    <email>financiero.insu@gmail.com</email>
+    <informacionLegalCliente>
+      <codigoEstablecimiento>00001</codigoEstablecimiento>
+      <nombreRegistroRUT>INSUALIAMENTOS S.A.S</nombreRegistroRUT>
+      <numeroIdentificacion>830054925</numeroIdentificacion>
+      <numeroIdentificacionDV>0</numeroIdentificacionDV>
+      <tipoIdentificacion>31</tipoIdentificacion>
+    </informacionLegalCliente>
+    <nombreRazonSocial>INSUALIAMENTOS S.A.S</nombreRazonSocial>
+    <notificar>SI</notificar>
+    <numeroDocumento>830054925</numeroDocumento>
+    <numeroIdentificacionDV>0</numeroIdentificacionDV>
+    <responsabilidadesRut>
+      <Obligaciones>
+        <obligaciones>0-13</obligaciones>
+        <regimen>48</regimen>
+      </Obligaciones>
+      <Obligaciones xsi:nil="true" />
+    </responsabilidadesRut>
+    <tipoIdentificacion>31</tipoIdentificacion>
+    <tipoPersona>1</tipoPersona>
+  </cliente>
+  <consecutivoDocumento>numero</consecutivoDocumento>
+  <detalleDeFactura>
+    <FacturaDetalle>
+      <cantidadPorEmpaque>60</cantidadPorEmpaque>
+      <cantidadReal>60</cantidadReal>
+      <cantidadRealUnidadMedida>04</cantidadRealUnidadMedida>
+      <cantidadUnidades>60</cantidadUnidades>
+      <codigoProducto>CESPA01</codigoProducto>
+      <descripcion>CEREZA SIN PALITO LATA 3.600 GR</descripcion>
+      <descripcionTecnica>CEREZA SIN PALITO LATA 3.600 GR</descripcionTecnica>
+      <estandarCodigo>999</estandarCodigo>
+      <estandarCodigoProducto>HKA80</estandarCodigoProducto>
+      <impuestosDetalles>
+        <FacturaImpuestos>
+          <baseImponibleTOTALImp>2100000.00</baseImponibleTOTALImp>
+          <codigoTOTALImp>01</codigoTOTALImp>
+          <controlInterno />
+          <porcentajeTOTALImp>19</porcentajeTOTALImp>
+          <unidadMedida />
+          <unidadMedidaTributo />
+          <valorTOTALImp>399000.00</valorTOTALImp>
+          <valorTributoUnidad />
+        </FacturaImpuestos>
+        <FacturaImpuestos xsi:nil="true" />
+      </impuestosDetalles>
+      <impuestosTotales>
+        <ImpuestosTotales>
+          <codigoTOTALImp>01</codigoTOTALImp>
+          <montoTotal>399000.00</montoTotal>
+        </ImpuestosTotales>
+        <ImpuestosTotales xsi:nil="true" />
+      </impuestosTotales>
+      <marca>HKA</marca>
+      <muestraGratis>0</muestraGratis>
+      <precioTotal>2499000.00</precioTotal>
+      <precioTotalSinImpuestos>2100000.00</precioTotalSinImpuestos>
+      <precioVentaUnitario>35000.00</precioVentaUnitario>
+      <secuencia>1</secuencia>
+      <unidadMedida>04</unidadMedida>
+    </FacturaDetalle>
+    <FacturaDetalle xsi:nil="true" />
+  </detalleDeFactura>
+  <fechaEmision>2019-11-18 00:00:00</fechaEmision>
+  <impuestosGenerales>
+    <FacturaImpuestos xsi:nil="true" />
+    <FacturaImpuestos>
+      <baseImponibleTOTALImp>2100000.00</baseImponibleTOTALImp>
+      <codigoTOTALImp>05</codigoTOTALImp>
+      <porcentajeTOTALImp>2.5</porcentajeTOTALImp>
+      <unidadMedida>WSD</unidadMedida>
+      <valorTOTALImp>9975.00</valorTOTALImp>
+    </FacturaImpuestos>
+  </impuestosGenerales>
+  <impuestosTotales>
+    <ImpuestosTotales>
+      <codigoTOTALImp>01</codigoTOTALImp>
+      <montoTotal>399000.00</montoTotal>
+    </ImpuestosTotales>
+    <ImpuestosTotales xsi:nil="true" />
+  </impuestosTotales>
+  <mediosDePago>
+    <MediosDePago>
+      <medioPago>10</medioPago>
+      <metodoDePago>1</metodoDePago>
+      <numeroDeReferencia>01</numeroDeReferencia>
+    </MediosDePago>
+    <MediosDePago xsi:nil="true" />
+  </mediosDePago>
+  <moneda>COP</moneda>
+  <rangoNumeracion>F1PF-1</rangoNumeracion>
+  <redondeoAplicado>0.00</redondeoAplicado>
+  <tipoDocumento>01</tipoDocumento>
+  <tipoOperacion>05</tipoOperacion>
+  <totalBaseImponible>2100000.00</totalBaseImponible>
+  <totalBrutoConImpuesto>2499000.00</totalBrutoConImpuesto>
+  <totalMonto>2499000.00</totalMonto>
+  <totalProductos>1</totalProductos>
+  <totalSinImpuestos>2100000.00</totalSinImpuestos>
+</FacturaGeneral>

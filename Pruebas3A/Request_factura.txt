@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FacturaGeneral xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <cantidadDecimales>2</cantidadDecimales>
+  <cliente>
+    <actividadEconomicaCIIU>0010</actividadEconomicaCIIU>
+    <apellido>RUIZ FRANCO</apellido>
+    <destinatario>
+      <Destinatario>
+        <canalDeEntrega>0</canalDeEntrega>
+        <email>
+          <string>rtellez@globalforce.mx</string>
+        </email>
+        <nitProveedorReceptor>1</nitProveedorReceptor>
+        <telefono>1234567890</telefono>
+      </Destinatario>
+    </destinatario>
+    <detallesTributarios>
+      <Tributos>
+        <codigoImpuesto>01</codigoImpuesto>
+      </Tributos>
+    </detallesTributarios>
+    <direccionFiscal>
+      <ciudad>BOGOTA D.C.</ciudad>
+      <codigoDepartamento>11</codigoDepartamento>
+      <departamento>BOGOTA D.C.</departamento>
+      <direccion>CR 100  25 A 24</direccion>
+      <lenguaje>es</lenguaje>
+      <municipio>11001</municipio>
+      <pais>CO</pais>
+      <zonaPostal />
+    </direccionFiscal>
+    <email>anaisabelortiz25@yahoo.com</email>
+    <informacionLegalCliente>
+      <codigoEstablecimiento>00001</codigoEstablecimiento>
+      <nombreRegistroRUT>RUIZ FRANCO RUBI</nombreRegistroRUT>
+      <numeroIdentificacion>37513624</numeroIdentificacion>
+      <numeroIdentificacionDV>2</numeroIdentificacionDV>
+      <tipoIdentificacion>31</tipoIdentificacion>
+    </informacionLegalCliente>
+    <nombreRazonSocial>RUBI</nombreRazonSocial>
+    <notificar>SI</notificar>
+    <numeroDocumento>37513624</numeroDocumento>
+    <numeroIdentificacionDV>2</numeroIdentificacionDV>
+    <responsabilidadesRut>
+      <Obligaciones>
+        <obligaciones />
+        <regimen>48</regimen>
+      </Obligaciones>
+    </responsabilidadesRut>
+    <segundoNombre />
+    <tipoIdentificacion>31</tipoIdentificacion>
+    <tipoPersona>2</tipoPersona>
+  </cliente>
+  <consecutivoDocumento>F1PF5</consecutivoDocumento>
+  <detalleDeFactura>
+    <FacturaDetalle>
+      <cantidadPorEmpaque>24</cantidadPorEmpaque>
+      <cantidadReal>24</cantidadReal>
+      <cantidadRealUnidadMedida>04</cantidadRealUnidadMedida>
+      <cantidadUnidades>24</cantidadUnidades>
+      <codigoProducto>DUMIT08</codigoProducto>
+      <descripcion>DURAZNO EN MITADES LATA 820 GR 3A ABREFACIL KRON</descripcion>
+      <descripcionTecnica>DURAZNO EN MITADES LATA 820 GR 3A ABREFACIL KRON</descripcionTecnica>
+      <estandarCodigo>999</estandarCodigo>
+      <estandarCodigoProducto>HKA80</estandarCodigoProducto>
+      <impuestosDetalles>
+        <FacturaImpuestos>
+          <baseImponibleTOTALImp>86400.00</baseImponibleTOTALImp>
+          <codigoTOTALImp>01</codigoTOTALImp>
+          <controlInterno />
+          <porcentajeTOTALImp>19</porcentajeTOTALImp>
+          <unidadMedida />
+          <unidadMedidaTributo />
+          <valorTOTALImp>16416.01</valorTOTALImp>
+          <valorTributoUnidad />
+        </FacturaImpuestos>
+      </impuestosDetalles>
+      <impuestosTotales>
+        <ImpuestosTotales>
+          <codigoTOTALImp>01</codigoTOTALImp>
+          <montoTotal>16416.01</montoTotal>
+        </ImpuestosTotales>
+      </impuestosTotales>
+      <marca>HKA</marca>
+      <muestraGratis>0</muestraGratis>
+      <precioTotal>102816.00</precioTotal>
+      <precioTotalSinImpuestos>86400.00</precioTotalSinImpuestos>
+      <precioVentaUnitario>3600.00</precioVentaUnitario>
+      <secuencia>1</secuencia>
+      <unidadMedida>04</unidadMedida>
+    </FacturaDetalle>
+    <FacturaDetalle>
+      <cantidadPorEmpaque>48</cantidadPorEmpaque>
+      <cantidadReal>48</cantidadReal>
+      <cantidadRealUnidadMedida>04</cantidadRealUnidadMedida>
+      <cantidadUnidades>48</cantidadUnidades>
+      <codigoProducto>DUPEP03</codigoProducto>
+      <descripcion>DURAZNO EN PEPA FRASCO 260 GR BOMBILLO 3A</descripcion>
+      <descripcionTecnica>DURAZNO EN PEPA FRASCO 260 GR BOMBILLO 3A</descripcionTecnica>
+      <estandarCodigo>999</estandarCodigo>
+      <estandarCodigoProducto>HKA80</estandarCodigoProducto>
+      <impuestosDetalles>
+        <FacturaImpuestos>
+          <baseImponibleTOTALImp>96768.00</baseImponibleTOTALImp>
+          <codigoTOTALImp>01</codigoTOTALImp>
+          <controlInterno />
+          <porcentajeTOTALImp>19</porcentajeTOTALImp>
+          <unidadMedida />
+          <unidadMedidaTributo />
+          <valorTOTALImp>18385.93</valorTOTALImp>
+          <valorTributoUnidad />
+        </FacturaImpuestos>
+      </impuestosDetalles>
+      <impuestosTotales>
+        <ImpuestosTotales>
+          <codigoTOTALImp>01</codigoTOTALImp>
+          <montoTotal>18385.93</montoTotal>
+        </ImpuestosTotales>
+      </impuestosTotales>
+      <marca>HKA</marca>
+      <muestraGratis>0</muestraGratis>
+      <precioTotal>115153.92</precioTotal>
+      <precioTotalSinImpuestos>96768.00</precioTotalSinImpuestos>
+      <precioVentaUnitario>2016.00</precioVentaUnitario>
+      <secuencia>1</secuencia>
+      <unidadMedida>04</unidadMedida>
+    </FacturaDetalle>
+    <FacturaDetalle>
+      <cantidadPorEmpaque>6</cantidadPorEmpaque>
+      <cantidadReal>6</cantidadReal>
+      <cantidadRealUnidadMedida>04</cantidadRealUnidadMedida>
+      <cantidadUnidades>6</cantidadUnidades>
+      <codigoProducto>PIROD01</codigoProducto>
+      <descripcion>PIÑAS EN RODAJAS  LATA  565 GR</descripcion>
+      <descripcionTecnica>PIÑAS EN RODAJAS  LATA  565 GR</descripcionTecnica>
+      <estandarCodigo>999</estandarCodigo>
+      <estandarCodigoProducto>HKA80</estandarCodigoProducto>
+      <impuestosDetalles>
+        <FacturaImpuestos>
+          <baseImponibleTOTALImp>21540.00</baseImponibleTOTALImp>
+          <codigoTOTALImp>01</codigoTOTALImp>
+          <controlInterno />
+          <porcentajeTOTALImp>19</porcentajeTOTALImp>
+          <unidadMedida />
+          <unidadMedidaTributo />
+          <valorTOTALImp>4092.60</valorTOTALImp>
+          <valorTributoUnidad />
+        </FacturaImpuestos>
+      </impuestosDetalles>
+      <impuestosTotales>
+        <ImpuestosTotales>
+          <codigoTOTALImp>01</codigoTOTALImp>
+          <montoTotal>4092.60</montoTotal>
+        </ImpuestosTotales>
+      </impuestosTotales>
+      <marca>HKA</marca>
+      <muestraGratis>0</muestraGratis>
+      <precioTotal>25632.61</precioTotal>
+      <precioTotalSinImpuestos>21540.00</precioTotalSinImpuestos>
+      <precioVentaUnitario>3590.00</precioVentaUnitario>
+      <secuencia>1</secuencia>
+      <unidadMedida>04</unidadMedida>
+    </FacturaDetalle>
+    <FacturaDetalle>
+      <cantidadPorEmpaque>6</cantidadPorEmpaque>
+      <cantidadReal>6</cantidadReal>
+      <cantidadRealUnidadMedida>04</cantidadRealUnidadMedida>
+      <cantidadUnidades>6</cantidadUnidades>
+      <codigoProducto>ALCAP01</codigoProducto>
+      <descripcion>ALCAPARRAS FRASCO  125  GR</descripcion>
+      <descripcionTecnica>ALCAPARRAS FRASCO  125  GR</descripcionTecnica>
+      <estandarCodigo>999</estandarCodigo>
+      <estandarCodigoProducto>HKA80</estandarCodigoProducto>
+      <impuestosDetalles>
+        <FacturaImpuestos>
+          <baseImponibleTOTALImp>13080.00</baseImponibleTOTALImp>
+          <codigoTOTALImp>01</codigoTOTALImp>
+          <controlInterno />
+          <porcentajeTOTALImp>19</porcentajeTOTALImp>
+          <unidadMedida />
+          <unidadMedidaTributo />
+          <valorTOTALImp>2485.20</valorTOTALImp>
+          <valorTributoUnidad />
+        </FacturaImpuestos>
+      </impuestosDetalles>
+      <impuestosTotales>
+        <ImpuestosTotales>
+          <codigoTOTALImp>01</codigoTOTALImp>
+          <montoTotal>2485.20</montoTotal>
+        </ImpuestosTotales>
+      </impuestosTotales>
+      <marca>HKA</marca>
+      <muestraGratis>0</muestraGratis>
+      <precioTotal>15565.21</precioTotal>
+      <precioTotalSinImpuestos>13080.00</precioTotalSinImpuestos>
+      <precioVentaUnitario>2180.00</precioVentaUnitario>
+      <secuencia>1</secuencia>
+      <unidadMedida>04</unidadMedida>
+    </FacturaDetalle>
+    <FacturaDetalle>
+      <cantidadPorEmpaque>6</cantidadPorEmpaque>
+      <cantidadReal>6</cantidadReal>
+      <cantidadRealUnidadMedida>04</cantidadRealUnidadMedida>
+      <cantidadUnidades>6</cantidadUnidades>
+      <codigoProducto>ALCAP02</codigoProducto>
+      <descripcion>ALCAPARRAS FRASCO  250  GR</descripcion>
+      <descripcionTecnica>ALCAPARRAS FRASCO  250  GR</descripcionTecnica>
+      <estandarCodigo>999</estandarCodigo>
+      <estandarCodigoProducto>HKA80</estandarCodigoProducto>
+      <impuestosDetalles>
+        <FacturaImpuestos>
+          <baseImponibleTOTALImp>20850.00</baseImponibleTOTALImp>
+          <codigoTOTALImp>01</codigoTOTALImp>
+          <controlInterno />
+          <porcentajeTOTALImp>19</porcentajeTOTALImp>
+          <unidadMedida />
+          <unidadMedidaTributo />
+          <valorTOTALImp>3961.50</valorTOTALImp>
+          <valorTributoUnidad />
+        </FacturaImpuestos>
+      </impuestosDetalles>
+      <impuestosTotales>
+        <ImpuestosTotales>
+          <codigoTOTALImp>01</codigoTOTALImp>
+          <montoTotal>3961.50</montoTotal>
+        </ImpuestosTotales>
+      </impuestosTotales>
+      <marca>HKA</marca>
+      <muestraGratis>0</muestraGratis>
+      <precioTotal>24811.51</precioTotal>
+      <precioTotalSinImpuestos>20850.00</precioTotalSinImpuestos>
+      <precioVentaUnitario>3475.00</precioVentaUnitario>
+      <secuencia>1</secuencia>
+      <unidadMedida>04</unidadMedida>
+    </FacturaDetalle>
+    <FacturaDetalle>
+      <cantidadPorEmpaque>6</cantidadPorEmpaque>
+      <cantidadReal>6</cantidadReal>
+      <cantidadRealUnidadMedida>04</cantidadRealUnidadMedida>
+      <cantidadUnidades>6</cantidadUnidades>
+      <codigoProducto>ACRPI01</codigoProducto>
+      <descripcion>ACEITUNA RELLENA PIMENTON FRASCO 125 GR 3A</descripcion>
+      <descripcionTecnica>ACEITUNA RELLENA PIMENTON FRASCO 125 GR 3A</descripcionTecnica>
+      <estandarCodigo>999</estandarCodigo>
+      <estandarCodigoProducto>HKA80</estandarCodigoProducto>
+      <impuestosDetalles>
+        <FacturaImpuestos>
+          <baseImponibleTOTALImp>14370.00</baseImponibleTOTALImp>
+          <codigoTOTALImp>01</codigoTOTALImp>
+          <controlInterno />
+          <porcentajeTOTALImp>19</porcentajeTOTALImp>
+          <unidadMedida />
+          <unidadMedidaTributo />
+          <valorTOTALImp>2730.30</valorTOTALImp>
+          <valorTributoUnidad />
+        </FacturaImpuestos>
+      </impuestosDetalles>
+      <impuestosTotales>
+        <ImpuestosTotales>
+          <codigoTOTALImp>01</codigoTOTALImp>
+          <montoTotal>2730.30</montoTotal>
+        </ImpuestosTotales>
+      </impuestosTotales>
+      <marca>HKA</marca>
+      <muestraGratis>0</muestraGratis>
+      <precioTotal>17100.31</precioTotal>
+      <precioTotalSinImpuestos>14370.00</precioTotalSinImpuestos>
+      <precioVentaUnitario>2395.00</precioVentaUnitario>
+      <secuencia>1</secuencia>
+      <unidadMedida>04</unidadMedida>
+    </FacturaDetalle>
+    <FacturaDetalle>
+      <cantidadPorEmpaque>6</cantidadPorEmpaque>
+      <cantidadReal>6</cantidadReal>
+      <cantidadRealUnidadMedida>04</cantidadRealUnidadMedida>
+      <cantidadUnidades>6</cantidadUnidades>
+      <codigoProducto>ACRPI02</codigoProducto>
+      <descripcion>ACEITUNA RELLENA PIMENTON FRASCO 250 GR 3A</descripcion>
+      <descripcionTecnica>ACEITUNA RELLENA PIMENTON FRASCO 250 GR 3A</descripcionTecnica>
+      <estandarCodigo>999</estandarCodigo>
+      <estandarCodigoProducto>HKA80</estandarCodigoProducto>
+      <impuestosDetalles>
+        <FacturaImpuestos>
+          <baseImponibleTOTALImp>19746.00</baseImponibleTOTALImp>
+          <codigoTOTALImp>01</codigoTOTALImp>
+          <controlInterno />
+          <porcentajeTOTALImp>19</porcentajeTOTALImp>
+          <unidadMedida />
+          <unidadMedidaTributo />
+          <valorTOTALImp>3751.74</valorTOTALImp>
+          <valorTributoUnidad />
+        </FacturaImpuestos>
+      </impuestosDetalles>
+      <impuestosTotales>
+        <ImpuestosTotales>
+          <codigoTOTALImp>01</codigoTOTALImp>
+          <montoTotal>3751.74</montoTotal>
+        </ImpuestosTotales>
+      </impuestosTotales>
+      <marca>HKA</marca>
+      <muestraGratis>0</muestraGratis>
+      <precioTotal>23497.75</precioTotal>
+      <precioTotalSinImpuestos>19746.00</precioTotalSinImpuestos>
+      <precioVentaUnitario>3291.00</precioVentaUnitario>
+      <secuencia>1</secuencia>
+      <unidadMedida>04</unidadMedida>
+    </FacturaDetalle>
+    <FacturaDetalle>
+      <cantidadPorEmpaque>6</cantidadPorEmpaque>
+      <cantidadReal>6</cantidadReal>
+      <cantidadRealUnidadMedida>04</cantidadRealUnidadMedida>
+      <cantidadUnidades>6</cantidadUnidades>
+      <codigoProducto>ACDES04</codigoProducto>
+      <descripcion>ACEITUNA DESHUESADA FRASCO 125 GR 3A</descripcion>
+      <descripcionTecnica>ACEITUNA DESHUESADA FRASCO 125 GR 3A</descripcionTecnica>
+      <estandarCodigo>999</estandarCodigo>
+      <estandarCodigoProducto>HKA80</estandarCodigoProducto>
+      <impuestosDetalles>
+        <FacturaImpuestos>
+          <baseImponibleTOTALImp>13998.00</baseImponibleTOTALImp>
+          <codigoTOTALImp>01</codigoTOTALImp>
+          <controlInterno />
+          <porcentajeTOTALImp>19</porcentajeTOTALImp>
+          <unidadMedida />
+          <unidadMedidaTributo />
+          <valorTOTALImp>2659.62</valorTOTALImp>
+          <valorTributoUnidad />
+        </FacturaImpuestos>
+      </impuestosDetalles>
+      <impuestosTotales>
+        <ImpuestosTotales>
+          <codigoTOTALImp>01</codigoTOTALImp>
+          <montoTotal>2659.62</montoTotal>
+        </ImpuestosTotales>
+      </impuestosTotales>
+      <marca>HKA</marca>
+      <muestraGratis>0</muestraGratis>
+      <precioTotal>16657.63</precioTotal>
+      <precioTotalSinImpuestos>13998.00</precioTotalSinImpuestos>
+      <precioVentaUnitario>2333.00</precioVentaUnitario>
+      <secuencia>1</secuencia>
+      <unidadMedida>04</unidadMedida>
+    </FacturaDetalle>
+    <FacturaDetalle>
+      <cantidadPorEmpaque>6</cantidadPorEmpaque>
+      <cantidadReal>6</cantidadReal>
+      <cantidadRealUnidadMedida>04</cantidadRealUnidadMedida>
+      <cantidadUnidades>6</cantidadUnidades>
+      <codigoProducto>ACDES01</codigoProducto>
+      <descripcion>ACEITUNA DESHUESADA FRASCO 250 GR 3A</descripcion>
+      <descripcionTecnica>ACEITUNA DESHUESADA FRASCO 250 GR 3A</descripcionTecnica>
+      <estandarCodigo>999</estandarCodigo>
+      <estandarCodigoProducto>HKA80</estandarCodigoProducto>
+      <impuestosDetalles>
+        <FacturaImpuestos>
+          <baseImponibleTOTALImp>18978.00</baseImponibleTOTALImp>
+          <codigoTOTALImp>01</codigoTOTALImp>
+          <controlInterno />
+          <porcentajeTOTALImp>19</porcentajeTOTALImp>
+          <unidadMedida />
+          <unidadMedidaTributo />
+          <valorTOTALImp>3605.84</valorTOTALImp>
+          <valorTributoUnidad />
+        </FacturaImpuestos>
+      </impuestosDetalles>
+      <impuestosTotales>
+        <ImpuestosTotales>
+          <codigoTOTALImp>01</codigoTOTALImp>
+          <montoTotal>3605.84</montoTotal>
+        </ImpuestosTotales>
+      </impuestosTotales>
+      <marca>HKA</marca>
+      <muestraGratis>0</muestraGratis>
+      <precioTotal>22583.86</precioTotal>
+      <precioTotalSinImpuestos>18978.00</precioTotalSinImpuestos>
+      <precioVentaUnitario>3163.00</precioVentaUnitario>
+      <secuencia>1</secuencia>
+      <unidadMedida>04</unidadMedida>
+    </FacturaDetalle>
+    <FacturaDetalle>
+      <cantidadPorEmpaque>1</cantidadPorEmpaque>
+      <cantidadReal>1</cantidadReal>
+      <cantidadRealUnidadMedida>04</cantidadRealUnidadMedida>
+      <cantidadUnidades>1</cantidadUnidades>
+      <codigoProducto>UVPAF28</codigoProducto>
+      <descripcion>UVA PASA FLAME CAJA 10 KG PUEBLO BLANCO</descripcion>
+      <descripcionTecnica>UVA PASA FLAME CAJA 10 KG PUEBLO BLANCO</descripcionTecnica>
+      <estandarCodigo>999</estandarCodigo>
+      <estandarCodigoProducto>HKA80</estandarCodigoProducto>
+      <impuestosDetalles>
+        <FacturaImpuestos>
+          <baseImponibleTOTALImp>85000.00</baseImponibleTOTALImp>
+          <codigoTOTALImp>01</codigoTOTALImp>
+          <controlInterno />
+          <porcentajeTOTALImp>0</porcentajeTOTALImp>
+          <unidadMedida />
+          <unidadMedidaTributo />
+          <valorTOTALImp>0.00</valorTOTALImp>
+          <valorTributoUnidad />
+        </FacturaImpuestos>
+      </impuestosDetalles>
+      <impuestosTotales>
+        <ImpuestosTotales>
+          <codigoTOTALImp>01</codigoTOTALImp>
+          <montoTotal>0.00</montoTotal>
+        </ImpuestosTotales>
+      </impuestosTotales>
+      <marca>HKA</marca>
+      <muestraGratis>0</muestraGratis>
+      <precioTotal>85000.00</precioTotal>
+      <precioTotalSinImpuestos>85000.00</precioTotalSinImpuestos>
+      <precioVentaUnitario>85000.00</precioVentaUnitario>
+      <secuencia>1</secuencia>
+      <unidadMedida>04</unidadMedida>
+    </FacturaDetalle>
+  </detalleDeFactura>
+  <fechaEmision>2019-11-26 00:00:00</fechaEmision>
+  <impuestosGenerales>
+    <FacturaImpuestos>
+      <baseImponibleTOTALImp>390730.00</baseImponibleTOTALImp>
+      <codigoTOTALImp>01</codigoTOTALImp>
+      <porcentajeTOTALImp>19.00</porcentajeTOTALImp>
+      <unidadMedida>WSD</unidadMedida>
+      <valorTOTALImp>58088.74</valorTOTALImp>
+    </FacturaImpuestos>
+  </impuestosGenerales>
+  <impuestosTotales>
+    <ImpuestosTotales>
+      <codigoTOTALImp>01</codigoTOTALImp>
+      <montoTotal>58088.74</montoTotal>
+    </ImpuestosTotales>
+  </impuestosTotales>
+  <mediosDePago>
+    <MediosDePago>
+      <medioPago>10</medioPago>
+      <metodoDePago>1</metodoDePago>
+      <numeroDeReferencia>01</numeroDeReferencia>
+    </MediosDePago>
+  </mediosDePago>
+  <moneda>COP</moneda>
+  <rangoNumeracion>F1PF-1</rangoNumeracion>
+  <redondeoAplicado>0.00</redondeoAplicado>
+  <tipoDocumento>01</tipoDocumento>
+  <tipoOperacion>05</tipoOperacion>
+  <totalBaseImponible>390730.00</totalBaseImponible>
+  <totalBrutoConImpuesto>448819.00</totalBrutoConImpuesto>
+  <totalMonto>448819.00</totalMonto>
+  <totalProductos>10</totalProductos>
+  <totalSinImpuestos>390730.00</totalSinImpuestos>
+</FacturaGeneral>
